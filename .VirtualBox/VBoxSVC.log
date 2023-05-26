@@ -1,0 +1,89 @@
+00:00:00.003725 main     VirtualBox COM Server 6.1.34 r150636 win.amd64 (Mar 23 2022 00:36:21) release log
+00:00:00.003726 main     Log opened 2022-06-28T07:51:31.276892500Z
+00:00:00.003727 main     Build Type: release
+00:00:00.003757 main     OS Product: Windows 10
+00:00:00.003757 main     OS Release: 10.0.19044
+00:00:00.003758 main     OS Service Pack: 
+00:00:00.022489 main     DMI Product Name: Amd Am4 Workstation
+00:00:00.031495 main     DMI Product Version: System Version
+00:00:00.031527 main     Firmware type: UEFI
+00:00:00.031778 main     Secure Boot: Enabled
+00:00:00.031786 main     Host RAM: 32682MB (31.9GB) total, 22222MB (21.7GB) available
+00:00:00.031800 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.031801 main     Process ID: 18024
+00:00:00.031801 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.091986          VirtualBox: object creation starts
+00:00:00.092342          Home directory: 'C:\Users\pappl\.VirtualBox'
+00:00:00.092435          Installed Drivers:
+00:00:00.101634            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 6.1.34.636)
+00:00:00.102145            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.1.34.636)
+00:00:00.102616            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.1.34.636)
+00:00:00.103088            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.1.34.636)
+00:00:00.105375          usbLibGetDevices: Starting USB device enumeration
+00:00:00.135489          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.156599          HostDnsMonitor: initializing
+00:00:00.161924          HostDnsMonitor: updating information
+00:00:00.161966          HostDnsMonitor: old information
+00:00:00.161966            no server entries
+00:00:00.161967            no domain set
+00:00:00.161967            no search string entries
+00:00:00.161968          HostDnsMonitor: new information
+00:00:00.161968            server 1: 192.168.1.254
+00:00:00.161969            domain: home
+00:00:00.161969            no search string entries
+00:00:00.196996          SUPR0QueryVTCaps -> VERR_SVM_DISABLED
+00:00:00.197760          VD: VDInit finished with VINF_SUCCESS
+00:00:00.198963          VirtualBox: object created
+00:00:01.561726          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.583685          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:23.786969 createBase Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:24.303647          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:06:24.308445          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:06:24.311442          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:24.317213          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:06:24.321296          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:07:49.755159          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:49.759739          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:49.768403          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:49.772329          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:07:49.776090          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:11:57.044467          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:12:06.031814          Launched VM: 65525168 pid: 15832 (0x3dd8) frontend: GUI/Qt name: Windows_VM
+00:12:09.257633          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:12:09.564284          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:12:15.001178          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:12:15.512342          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:12:15.534858          Saving settings file "C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vbox" with version "1.15-windows"
+00:18:11.977387 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:18:12.006104 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:19:47.242942 dns-monitor HostDnsMonitor: updating information
+00:19:47.242966 dns-monitor HostDnsMonitor: unchanged
+00:50:27.162445 createBase Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:50:27.677904          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:50:27.684554          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:50:27.687964          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:50:27.692712          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:50:27.696433          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:51:56.023844          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:51:56.028824          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:53:07.070789          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:53:07.079399          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:53:07.095913          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:53:29.117406          Launched VM: 65656832 pid: 4560 (0x11d0) frontend: GUI/Qt name: Linux
+00:53:32.117836          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VM VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:53:32.418274          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={85632c68-b5bb-4316-a900-5eb28d3413df} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:53:32.867128          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:53:33.395941          Saving settings file "C:\Users\pappl\VirtualBox VMs\Linux\Linux.vbox" with version "1.16-windows"
+00:54:02.669290          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:54:02.678671          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:54:02.684835          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:54:02.690349          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:54:02.694668          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:54:02.699587          Saving settings file "C:\Users\pappl\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:54:08.209094 main     VirtualBox: object deletion starts
+00:54:08.209161 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\pappl\VirtualBox VMs\Windows_VM\Windows_VM.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:54:08.209544 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\pappl\VirtualBox VMs\Linux\Linux.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:54:08.210240 main     HostDnsMonitor: shutting down ...
+00:54:08.210301 main     HostDnsMonitor: shut down
+00:54:08.211254 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:54:08.211361 main     VirtualBox: object deleted
